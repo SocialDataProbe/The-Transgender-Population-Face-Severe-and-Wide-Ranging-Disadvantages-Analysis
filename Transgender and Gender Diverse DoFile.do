@@ -1,10 +1,10 @@
 *************************************************
 * The Transgender Population Face Severe and Wide-Ranging Disadvantages Analysis
 *************************************************
-local origdatadir "C:\Users\EYT\OneDrive - The University of Melbourne\Desktop\HILDA22\NewDATA"    // Location of original HILDA u data files
-local newdatadir  "C:\Users\EYT\OneDrive - The University of Melbourne\Desktop\HILDA22\Transgender"     // Location to which to write new data files
-global Excel "C:\Users\EYT\OneDrive - The University of Melbourne\Desktop\HILDA22\Transgender\Means.xlsx" //Mean Outputs
-cd "C:\Users\EYT\OneDrive - The University of Melbourne\Desktop\HILDA22\Transgender" //Directory
+local origdatadir  // Location of original HILDA u data files
+local newdatadir     // Location to which to write new data files
+global Excel //Mean Outputs
+cd //Directory
 
 *************************************************
 * SECTION A: CREATING THE DATASET 
